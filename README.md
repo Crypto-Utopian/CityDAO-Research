@@ -26,7 +26,7 @@ This repo is a collaborative page designed for CityDAO community to:
   </ul>
 
 (4) All research will help the project build a solid foundation &amp; guide it's future
-    <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; in a collaborative, fact-focused, and research driven way.
+    <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; in a collaborative, fact-focused, and research driven manner.
       
 
 
