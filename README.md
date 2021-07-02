@@ -1,12 +1,11 @@
 # CityDAO-Research
 
-####################################################
-## REPO OVERVIEW: Please Read all Below Points
-####################################################
+
+<h3> **REPO OVERVIEW: Please Read all Below Points** </h3>
 
 This repo is a collaborative page designed for CityDAO community to: 
 <br /><br />
-(1) Publish/share/update research on projects &amp; concepts related to or may affect the CityDAO project. 
+(1) Publish/share/update research on <span style="background-color:yellow">projects &amp; concepts similar/related to CityDAO</span> project. 
 <br /><br />
 (2) Contet should contain (but is not limited to) topics such as:
   <ul>
