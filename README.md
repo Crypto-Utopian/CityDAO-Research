@@ -17,7 +17,7 @@ This repo is a collaborative page designed for CityDAO community to:
     <li>Pros &amp; cons of different features, frameworks, and governance.</li>
     <li>Social research on similar projects. Follower count? Contributer count? etc?</li>
   </ul>
-<br />
+
 (3) ALAWAYS INCLUDE SOURCES &amp; CITATIONS IN YOUR RESEARCH:
   <ul>
     <li>LINK (URL)</li>
