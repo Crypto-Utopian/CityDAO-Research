@@ -16,13 +16,8 @@ This repo is a collaborative page designed for CityDAO community to:
     <li>Social research on similar projects. Follower count? Contributer count? etc?</li>
   </ul>
 
-(3) ALAWAYS INCLUDE SOURCES &amp; CITATIONS IN YOUR RESEARCH:
-  <ul>
-    <li>LINK (URL)</li>
-    <li>Website Name</li>
-    <li>Author</li>
-    <li>Publication date</li>
-  </ul>
+(3) Please try to use citations where you can:
+    -At the minimum include a link
 
 (4) All research will help the project build a solid foundation &amp; guide it's future
     <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; in a collaborative, fact-focused, and research driven manner.
